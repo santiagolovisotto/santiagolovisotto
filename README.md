@@ -3,7 +3,6 @@
 Backend developer based in Buenos Aires, Argentina. Java, Spring Boot and PostgreSQL.
 
 I build REST APIs, scalable architectures and SaaS products from scratch.
-
 ---
 
 ## How I work
@@ -11,6 +10,8 @@ I build REST APIs, scalable architectures and SaaS products from scratch.
 I design with hexagonal architecture and SOLID: the domain sits at the center and knows nothing about the database, the framework or the caller. That keeps systems easy to test and cheap to change. I write clean code because it is written once and read many times, usually by someone else on the team.
 
 I work on Debian, from the terminal. I'm a strong believer in free and open source software and a big fan of the GNU project.
+
+[![wakatime](https://wakatime.com/badge/user/2c637c62-33b6-466c-8ef4-ec0e42de03a2.svg)](https://wakatime.com/@2c637c62-33b6-466c-8ef4-ec0e42de03a2)
 
 ---
 
