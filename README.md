@@ -18,8 +18,8 @@ I work on Debian, from the terminal. I'm a strong believer in free and open sour
   </a>
 
   <p>
-    <a href="https://wakatime.com/@2c637c62-33b6-466c-8ef4-ec0e42de03a2"><img src="https://wakatime.com/badge/user/2c637c62-33b6-466c-8ef4-ec0e42de03a2.svg" alt="WakaTime" /></a>&nbsp;&nbsp;<a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=white" alt="Arch Linux" /></a>
-  </p>
+    <a href="https://wakatime.com/@2c637c62-33b6-466c-8ef4-ec0e42de03a2"><img src="https://wakatime.com/badge/user/2c637c62-33b6-466c-8ef4-ec0e42de03a2.svg" alt="WakaTime" /></a>&nbsp;&nbsp;<a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=white" alt="Arch Linux" /></a>&nbsp;&nbsp;<a href="https://www.debian.org/"><img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white" alt="Debian" /></a>
+  </p>  
 </div>
 
 
