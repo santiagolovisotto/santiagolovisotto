@@ -12,6 +12,7 @@ I design with hexagonal architecture and SOLID: the domain sits at the center an
 I work on Debian, from the terminal. I'm a strong believer in free and open source software and a big fan of the GNU project.
 
 [![wakatime](https://wakatime.com/badge/user/2c637c62-33b6-466c-8ef4-ec0e42de03a2.svg)](https://wakatime.com/@2c637c62-33b6-466c-8ef4-ec0e42de03a2)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=santiagolovisotto)](https://git.io/streak-stats)
 
 ---
 
