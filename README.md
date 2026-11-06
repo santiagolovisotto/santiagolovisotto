@@ -3,6 +3,7 @@
 Backend developer based in Buenos Aires, Argentina. Java, Spring Boot and PostgreSQL.
 
 I build REST APIs, scalable architectures and SaaS products from scratch.
+
 ---
 
 ## How I work
@@ -11,8 +12,9 @@ I design with hexagonal architecture and SOLID: the domain sits at the center an
 
 I work on Debian, from the terminal. I'm a strong believer in free and open source software and a big fan of the GNU project.
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=santiagolovisotto&theme=graywhite&hide_border=true&border_radius=0&timezone=UTC&date_format=j%20M%5B%20Y%5D&card_height=170" alt="GitHub Streak" /></a>
+
 [![wakatime](https://wakatime.com/badge/user/2c637c62-33b6-466c-8ef4-ec0e42de03a2.svg)](https://wakatime.com/@2c637c62-33b6-466c-8ef4-ec0e42de03a2)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=santiagolovisotto)](https://git.io/streak-stats)
 
 ---
 
