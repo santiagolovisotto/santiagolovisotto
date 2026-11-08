@@ -14,7 +14,7 @@ I work on Debian, from the terminal. I'm a strong believer in free and open sour
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=santiagolovisotto&theme=icegray&timezone=UTC&date_format=j%20M%5B%20Y%5D&card_height=170" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=santiagolovisotto&theme=react&timezone=UTC&date_format=j%20M%5B%20Y%5D&card_height=170" alt="GitHub Streak" />
   </a>
 
   <p>
