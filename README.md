@@ -1,5 +1,8 @@
 # Hola, soy Santiago Lovisotto 🧉👋
 
+<div align="center">
+<br>
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-santiagolovisotto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiagolovisotto/)
 [![Email](https://img.shields.io/badge/Email-ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:santiagolovisotto@protonmail.com)
 
@@ -7,21 +10,29 @@
 ![GNU](https://img.shields.io/badge/GNU-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?style=flat-square&logo=alacritty&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+<br>
 
 ![GitHub streak](https://streak-stats.demolab.com/?user=santiagolovisotto&theme=dark&hide_border=true)
 
-[![wakatime](https://wakatime.com/badge/user/2c637c62-33b6-466c-8ef4-ec0e42de03a2.svg)](https://wakatime.com/@2c637c62-33b6-466c-8ef4-ec0e42de03a2)
+<br>
+
+![wakatime](https://wakatime.com/badge/user/2c637c62-33b6-466c-8ef4-ec0e42de03a2.svg)
+
+</div>
 
 
 Buenos Aires, Argentina.
