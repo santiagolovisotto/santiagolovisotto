@@ -1,5 +1,29 @@
 # Hola, soy Santiago Lovisotto 🧉👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-santiagolovisotto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiagolovisotto/)
+[![Email](https://img.shields.io/badge/Email-ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:santiagolovisotto@protonmail.com)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GNU](https://img.shields.io/badge/GNU-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?style=flat-square&logo=alacritty&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+![GitHub streak](https://streak-stats.demolab.com/?user=santiagolovisotto&theme=dark&hide_border=true)
+
+[![wakatime](https://wakatime.com/badge/user/2c637c62-33b6-466c-8ef4-ec0e42de03a2.svg)](https://wakatime.com/@2c637c62-33b6-466c-8ef4-ec0e42de03a2)
+
+
 Buenos Aires, Argentina.
 
 Estudio Ingeniería en Informática en la UNAJ y trabajo desarrollando software, principalmente backend. Mi día a día transcurre entre Java, Spring Boot, PostgreSQL y, de vez en cuando, .NET.
@@ -8,7 +32,7 @@ También tengo un pequeño universo propio: Opellio, un emprendimiento de desarr
 
 Me gustan Linux, las terminales, el software libre y entender qué pasa detrás de las cosas. Supongo que por eso terminé estudiando informática: siempre me interesó más saber cómo funciona algo que simplemente usarlo.
 
-## Un poco de historia
+## Sobre mí
 
 Mi relación con las computadoras empezó bastante antes de escribir la primera línea de código. A los once años hice un curso de armado y reparación de PC. Después vinieron las computadoras de amigos, familiares, conocidos y hasta un pequeño emprendimiento de reparación. Siempre había alguna máquina por abrir, algún problema por resolver o algo que podía funcionar un poco mejor.
 
@@ -76,10 +100,9 @@ Me gusta la filosofía GNU y, siempre que puedo, elijo herramientas de código a
 - React
 - Astro.js
 
-
 ## Experiencia profesional
 
-### Opellio Software · Software developer (fundador, freelance)
+### [Opellio Software](www.opellio.com) · Software developer (freelance)
 
 Buenos Aires, Argentina | Junio 2025 – Actualidad
 
@@ -87,20 +110,20 @@ Emprendimiento propio de desarrollo de software a medida.
 
 Ciclo completo: relevamiento con el cliente para entender qué necesita, diseño, desarrollo, despliegue y mantenimiento. Aplico Clean Code y arquitectura hexagonal, con autenticación y autorización mediante JWT. Uso Claude como apoyo para revisar PRs, optimizar consultas y generar tests. Proyectos en producción:
 
-#### Turnerapp ([turnerapp.com.ar](https://turnerapp.com.ar)) · SaaS multi-tenant de gestión de turnos
+#### [Turnerapp](https://turnerapp.com.ar) · SaaS multi-tenant de gestión de turnos
 
 - Plataforma propia que vendo como servicio: cada negocio tiene su perfil público y gestiona su agenda. En su primer mes en producción procesó más de 120 reservas y automatizó la agenda de 4 clientes B2B reales.
 - Cobro automatizado de señas con la API de Mercado Pago: más de 40 transacciones exitosas en el primer mes, con reducción del ausentismo.
 - Mails automáticos con Resend y captcha de Cloudflare en la reserva para evitar bots.
 - Stack: Java, Spring Boot y SQL Server en un VPS de Hostinger con Ubuntu; frontend en Angular desplegado en Vercel.
 
-#### Didio Destacadas ([didiodestacadas.com.ar](https://didiodestacadas.com.ar)) · Sistema inmobiliario
+#### [Didio Destacadas](https://didiodestacadas.com.ar) · Sistema inmobiliario
 
 - Carga y gestión de propiedades con fotos reordenables, filtros, login con autenticación y cierre de sesión por inactividad.
 - Chatbot que responde consultas de los visitantes sobre las propiedades.
 - Stack: .NET 8, arquitectura hexagonal y SQL Server en MonsterASP; frontend desarrollado con React y V0.
 
-#### UOP3D ([uop3d.com.ar](https://uop3d.com.ar)) · Tienda de insumos de impresión 3D
+#### [UOP 3D](https://uop3d.com.ar) · Tienda de insumos de impresión 3D
 
 - En producción hace más de un año: funciona como tienda online que deriva la compra a WhatsApp.
 - Panel de administración para gestionar stock, proveedores, materiales, insumos, filamentos e impresoras 3D.
@@ -108,7 +131,7 @@ Ciclo completo: relevamiento con el cliente para entender qué necesita, diseño
 
 ## Proyectos
 
-### OpenLeetcode · Plataforma de programación competitiva (GitHub)
+### [Open-Leetcode](https://github.com/santiagolovisotto/open-leetcode) · Plataforma de programación competitiva (GitHub)
 
 En desarrollo
 
@@ -118,7 +141,7 @@ En desarrollo
 - Scrum individual: 28 tareas en 6 sprints (tablero en Trello) y diagramas de arquitectura en el repositorio.
 - Stack: Java 21, Spring Boot, Gradle, PostgreSQL, Spring Data JPA, Flyway, Docker. JUnit y Testcontainers en los próximos sprints; frontend planificado en Angular.
 
-### Ticketech · Sistema de gestión de eventos con microservicios
+### [Ticketech](https://github.com/orgs/PS-Grupo-3/repositories) · Sistema de gestión de eventos con microservicios
 
 UNAJ | Sept – Dic 2025
 
@@ -128,7 +151,7 @@ UNAJ | Sept – Dic 2025
 - Presentamos el avance en 3 exposiciones (una por sprint), simulando la interacción con un cliente real.
 - Stack: C# y .NET 8, SQL Server; frontend en React.
 
-### Protein Aligner · Alineador de proteínas (GitHub)
+### [Protein Aligner](https://www.github.com/santiagolovisotto/protein-aligner) · Alineador de proteínas (GitHub)
 
 UNAJ | En desarrollo
 
@@ -137,8 +160,8 @@ UNAJ | En desarrollo
 
 ### Otros proyectos en GitHub
 
-- Stock System: gestión de stock y facturación para comercios, con PostgreSQL, scanners 1D e impresoras térmicas (Java).
-- SayIt: app de escritorio para practicar inglés oral, con text-to-speech, reconocimiento de voz (Sphinx) y distancia de Levenshtein.
+- [Stock System](https://www.github.com/santiagolovisotto/stock-system): gestión de stock y facturación para comercios, con PostgreSQL, scanners 1D e impresoras térmicas (Java).
+- [SayIt](https://www.github.com/santiagolovisotto/sayit): app de escritorio para practicar inglés oral, con text-to-speech, reconocimiento de voz (Sphinx) y distancia de Levenshtein.
 
 ## Educación y formación
 
@@ -207,7 +230,3 @@ No todo sucede frente a una pantalla, aunque a veces cueste creerlo.
 - Filosofía. Leo principalmente en inglés. Schopenhauer es uno de mis autores favoritos. On the Suffering of the World es uno de esos libros que dejan algunas ideas rondando bastante después de haber terminado de leerlos.
 - Calistenia. Entreno hace varios años y me interesa especialmente la resistencia. Hay algo de la filosofía de Zef Zakaveli que intento llevar al entrenamiento: calidad antes que cantidad. Que la última repetición se parezca a la primera, sin atajos ni movimientos hechos por cumplir.
 
-## Contacto
-
-- [LinkedIn](https://www.linkedin.com/in/santiagolovisotto/)
-- [Email](mailto:santiagolovisotto@protonmail.com)
