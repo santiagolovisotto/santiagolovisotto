@@ -25,7 +25,7 @@
 ![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?style=flat-square&logo=alacritty&logoColor=white)
 <br>
 
-![GitHub streak](https://streak-stats.demolab.com?user=santiagolovisotto&theme=react&timezone=UTC&date_format=j%20M%5B%20Y%5D&card_height=170)
+![GitHub streak](https://streak-stats.demolab.com?user=santiagolovisotto&theme=react&timezone=UTC&card_height=170)
 <br>
 
 ![wakatime](https://wakatime.com/badge/user/2c637c62-33b6-466c-8ef4-ec0e42de03a2.svg)
